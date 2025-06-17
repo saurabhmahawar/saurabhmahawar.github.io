@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Saurabh Mahawar",
-    "tagline": "Developer and Creator."
+    "tagline": "Community is ❤️"
   },
   "social_links": [
     {
@@ -29,6 +29,11 @@
       "url": "https://github.com/saurabhmahawar",
       "icon": "github",
       "required": true
+    },
+     {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/saurabhmahawar/",
+      "icon": "linkedin",
     }
   ],
   "github_username": "saurabhmahawar",
