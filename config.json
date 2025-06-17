@@ -31,9 +31,9 @@
       "required": true
     },
     {
-      "name": "Linkedin",
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/saurabhmahawar/",
-      "icon": "linkedin",
+      "icon": "linkedin"
     }
   ],
   "github_username": "saurabhmahawar",
