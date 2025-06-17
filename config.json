@@ -30,7 +30,7 @@
       "icon": "github",
       "required": true
     },
-     {
+    {
       "name": "Linkedin",
       "url": "https://www.linkedin.com/in/saurabhmahawar/",
       "icon": "linkedin",
